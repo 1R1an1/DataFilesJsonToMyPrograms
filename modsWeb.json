@@ -1,0 +1,64 @@
+{
+  "_Mods": [
+    {
+      "Name": "mod1",
+      "Vercion": "0.1.04.6",
+      "Descripcion": "mod1 0.1.04.6",
+      "Dependecias": null,
+      "Tags": null,
+      "Autores": null,
+      "rEADME": "mod1 leeme",
+      "RepositorioLink": "https://github.com/mod1"
+    },
+    {
+      "Name": "custom 2",
+      "Vercion": "0.3.5.1",
+      "Descripcion": "custom 2 0.3.5.1",
+      "Dependecias": "Satchel",
+      "Tags": null,
+      "Autores": null,
+      "rEADME": "custom 2 leeme",
+      "RepositorioLink": "https://github.com/custom_2"
+    },
+    {
+      "Name": "3254 ewtrsse",
+      "Vercion": "213.2312.23.23667",
+      "Descripcion": "3254 ewtrsse 213.2312.23.23667",
+      "Dependecias": null,
+      "Tags": "hola, pepe, mod",
+      "Autores": null,
+      "rEADME": "3254 ewtrsse leeme",
+      "RepositorioLink": "https://github.com/3254_ewtrsse"
+    },
+    {
+      "Name": "Unknow457",
+      "Vercion": "0.1.0.0",
+      "Descripcion": "Unknow457 0.1.0.0",
+      "Dependecias": null,
+      "Tags": null,
+      "Autores": "juan pedro 2000",
+      "rEADME": "Unknow457",
+      "RepositorioLink": "https://github.com/Unknow457"
+    },
+    {
+      "Name": "Unknow0916",
+      "Vercion": "0.423.91.34",
+      "Descripcion": "Unknow0916 0.423.91.34",
+      "Dependecias": "SFCore",
+      "Tags": null,
+      "Autores": null,
+      "rEADME": "Unknow0916 leeme",
+      "RepositorioLink": "https://github.com/Unknow0916"
+    },
+    {
+      "Name": "unpepe28748",
+      "Vercion": "15.5325.843.112",
+      "Descripcion": "unpepe28748 15.5325.843.112",
+      "Dependecias": null,
+      "Tags": null,
+      "Autores": null,
+      "rEADME": "unpepe28748 leeme",
+      "RepositorioLink": "https://github.com/unpepe28748"
+    }
+  ]
+}
