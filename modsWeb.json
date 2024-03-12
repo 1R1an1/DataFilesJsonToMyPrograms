@@ -1,14 +1,14 @@
 {
   "_Mods": [
     {
-      "Name": "mod1",
+      "Name": "mod123456789",
       "Vercion": "0.1.04.6",
-      "Descripcion": "mod1 0.1.04.6",
+      "Descripcion": "mod123456789 0.1.04.6",
       "Dependecias": null,
       "Tags": null,
       "Autores": null,
-      "rEADME": "mod1 leeme",
-      "RepositorioLink": "https://github.com/mod1"
+      "rEADME": "mod123456789 leeme",
+      "RepositorioLink": "https://github.com/mod123456789"
     },
     {
       "Name": "custom 2",
